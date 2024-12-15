@@ -1,0 +1,23 @@
+{
+  "post": [
+    {
+      "id": "2",
+      "title": "Salom dunyo 11",
+      "desc": "lorem ipsum dolor"
+    },
+    {
+      "id": "42f2",
+      "title": "hop",
+      "desc": "mana"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "fname": "John",
+      "lname": "Doe",
+      "age": 32,
+      "isMarried": true
+    }
+  ]
+}
